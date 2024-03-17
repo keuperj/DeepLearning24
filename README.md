@@ -14,5 +14,5 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 ## Woche 2
 
 ### Lab
-* [Assignment: simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_2/A_simple_Perceptron_in_NumPy.ipynb)  
-* [Assignment: Multi Class Perceptrons](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_2/Multi_Class_Perceptrons.ipynb) 
+* [Assignment: simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_2/A_simple_Perceptron_in_NumPy.ipynb)  
+* [Assignment: Multi Class Perceptrons](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_2/Multi_Class_Perceptrons.ipynb) 
