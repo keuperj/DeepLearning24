@@ -19,9 +19,6 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 
 
 ## Woche 3
- 
-
-## Woche 3
 
 ### Vorlesung
 * [Training a simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_3/Training%20_a_simple_Perceptron_in_NumPy.ipynb)
