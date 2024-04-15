@@ -6,19 +6,24 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 * Speichern Sie ihre Ergebnisse/Code in *Colab* über *download*, *save to google drive* oder *push to github*
 * Ein **Colab Tutorial** finden Sie [hier](https://colab.research.google.com/)
 
-## Woche 1
+<details>
+<summary> <H2> Week 1 </H2><BR></summary>
 
 ### Lab
 * [CIFAR10 Challenge](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_1/CIFAR10-ShallowLearning.ipynb)
 
-## Woche 2
+</details>
+<details>
+<summary> <H2> Week 2 </H2><BR></summary>
 
 ### Lab
 * [Assignment: simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_2/A_simple_Perceptron_in_NumPy.ipynb) --> [solition](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_2/A_simple_Perceptron_in_NumPy_solution.ipynb) 
 * [Assignment: Multi Class Perceptrons](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_2/Multi_Class_Perceptrons.ipynb) --> [solution](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_2/Multi_Class_Perceptrons_solution.ipynb)
 
 
-## Woche 3
+</details>
+<details>
+<summary> <H2> Week 3 </H2><BR></summary>
 
 ### Vorlesung
 * [Training a simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_3/Training%20_a_simple_Perceptron_in_NumPy.ipynb)
@@ -31,7 +36,9 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 * [Assignment: XOR](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch_solution.ipynb)
 * [Assignment: CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_3/Assignment_CIFAR10_MLP.ipynb)  -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_3/Assignment_CIFAR10_MLP_solution.ipynb)
 
-## Woche 4
+</details>
+<details>
+<summary> <H2> Week 4 </H2><BR></summary>
 
 ### Lab
 * [Interactive Training Playground](https://playground.tensorflow.org/)
@@ -41,6 +48,9 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 ### Assignment 
 * [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) 
 
+</details>
+
+  
 ## Woche 5
 
 ### Lab
