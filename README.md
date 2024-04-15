@@ -7,14 +7,14 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 * Ein **Colab Tutorial** finden Sie [hier](https://colab.research.google.com/)
 
 <details>
-<summary> <H2> Week 1 </H2><BR></summary>
+<summary> <H2> Woche 1 - Intro </H2><BR></summary>
 
 ### Lab
 * [CIFAR10 Challenge](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_1/CIFAR10-ShallowLearning.ipynb)
 
 </details>
 <details>
-<summary> <H2> Week 2 </H2><BR></summary>
+<summary> <H2> Woche 2 - MLPs </H2><BR></summary>
 
 ### Lab
 * [Assignment: simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_2/A_simple_Perceptron_in_NumPy.ipynb) --> [solition](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_2/A_simple_Perceptron_in_NumPy_solution.ipynb) 
@@ -23,7 +23,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 
 </details>
 <details>
-<summary> <H2> Week 3 </H2><BR></summary>
+<summary> <H2> Woche 3 - Training NNs I </H2><BR></summary>
 
 ### Vorlesung
 * [Training a simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_3/Training%20_a_simple_Perceptron_in_NumPy.ipynb)
@@ -38,7 +38,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 
 </details>
 <details>
-<summary> <H2> Week 4 </H2><BR></summary>
+<summary> <H2> Woche 4 - Training NNs II </H2><BR></summary>
 
 ### Lab
 * [Interactive Training Playground](https://playground.tensorflow.org/)
@@ -51,7 +51,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 </details>
 
   
-## Woche 5
+## Woche 5 - CNNs I
 
 ### Lab
 * [PyTorch Data Loader](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/lab_pytorch_data_loader.ipynb)
