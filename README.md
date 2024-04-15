@@ -40,3 +40,11 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 
 ### Assignment 
 * [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) 
+
+## Woche 5
+
+### Lab
+* [PyTorch Data Loader](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/lab_pytorch_data_loader.ipynb)
+
+### Assignment
+* [Assignment: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb)
