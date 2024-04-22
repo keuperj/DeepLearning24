@@ -63,4 +63,4 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 
 ## Woche 6 - CNNs II
 ### Assignment
-* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_6/Assignment_2_PyTorch_Model_Zoo.ipynb) 
+* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_6/Assignment_2_PyTorch_Model_Zoo.ipynb) 
