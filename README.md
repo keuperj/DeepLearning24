@@ -57,7 +57,9 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 * [PyTorch Data Loader](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/lab_pytorch_data_loader.ipynb)
 
 ### Assignment
-* [Assignment: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb)
+* [Assignment: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/Assignment_1_cifar10_CNN_solution.ipynb)
+
+## Woche 6
 
 </details>
 
