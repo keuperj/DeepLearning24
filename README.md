@@ -59,8 +59,6 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 ### Assignment
 * [Assignment: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/Assignment_1_cifar10_CNN_solution.ipynb)
 
-## Woche 6
-
 </details>
 
 ## Woche 6 - CNNs II
