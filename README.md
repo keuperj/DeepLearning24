@@ -68,7 +68,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 
 </details>
 
-## Woche 7
+## Woche 7 - RNNs
 
 ### Lab
 * [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_7/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
