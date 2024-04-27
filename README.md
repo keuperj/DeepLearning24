@@ -60,7 +60,18 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 * [Assignment: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_5/Assignment_1_cifar10_CNN_solution.ipynb)
 
 </details>
+<details>
+<summary> <H2> Woche 6 - CNNs II </H2><BR></summary>
 
-## Woche 6 - CNNs II
 ### Assignment
 * [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_6/Assignment_2_PyTorch_Model_Zoo.ipynb) 
+
+</details>
+
+## Woche 7
+
+### Lab
+* [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_7/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
+
+### Assignments
+* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_7/Assignemnt_stock-price.ipynb)
