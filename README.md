@@ -67,11 +67,23 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 * [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_6/Assignment_2_PyTorch_Model_Zoo.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_6/Assignment_2_PyTorch_Model_Zoo_solution.ipynb) 
 
 </details>
+<details>
+<summary> <H2>Woche 7 - RNNs </H2><BR></summary>
 
-## Woche 7 - RNNs
 
 ### Lab
 * [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_7/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
 
 ### Assignments
 * [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_7/Assignemnt_stock-price.ipynb)
+
+
+</details>
+
+## Woche 8
+### Links:
+* PyTorch augmentation transformations: https://pytorch.org/vision/stable/transforms.html
+* PyTorch AutoAugmentation: https://pytorch.org/vision/main/generated/torchvision.transforms.AutoAugment.html
+
+### Assignent
+* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_8/Assignment_AE_MNIST.ipynb) 
