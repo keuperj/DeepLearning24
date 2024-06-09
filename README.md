@@ -91,10 +91,21 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 * [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_8/Assignment_AE_MNIST.ipynb) 
 </details>
 
-## Woche 9 - GANs
+<details>
+<summary> <H2>Woche 9 - GANs </H2><BR></summary>
 
 ### Lab
 * [DC-GAN on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_9/DCGAN_CIFAR10.ipynb)
 
 ### Assignment
 * [GAN on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_9/assignment_mnistGAN.ipynb)
+
+</details>
+
+## Woche 10
+
+#### Lab
+* [Stable Diffusion Demo](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
+
+### Assignment
+* [DDPM from scratch](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_10/DDPM.ipynb)
