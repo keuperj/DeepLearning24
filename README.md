@@ -115,7 +115,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 
 ## Woche 11 - Transformer
 ### Lab
-* [NLP Transformer Example](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_11/transformer_tutorial.ipynb)
+* [Transformers from Scratch in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_11/transformer_tutorial.ipynb)
 * [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_11/pre_trained_vt.ipynb)
 * [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_11/fine_tune_pre_trained_transformer.ipynb)
 
