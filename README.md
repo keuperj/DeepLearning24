@@ -102,10 +102,30 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 
 </details>
 
-## Woche 10
+<details>
+<summary> <H2>Woche 10 - Diffusion Models </H2><BR></summary>
 
 #### Lab
 * [Stable Diffusion Demo](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
 
 ### Assignment
 * [DDPM from scratch](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_10/DDPM.ipynb)
+
+</details>
+
+## Woche 11 - Transformer
+### Lab
+* [NLP Transformer Example](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_11/transformer_tutorial.ipynb)
+* [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_11/pre_trained_vt.ipynb)
+* [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_11/fine_tune_pre_trained_transformer.ipynb)
+
+
+## Einführung in Tensorflow
+* TensorFlow API: https://www.tensorflow.org/api_docs/python/tf
+### Lab
+* [Introduction to Tensorflow 2](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb)
+* [Tensors and Operators](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/basics.ipynb)
+* [Custom Layers](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/custom_layers.ipynb)
+* [Custom Training](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/custom_training_walkthrough.ipynb)
+* [Use Case 1: CIFAR10](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb)
+* [Use Case 2: text RNN](https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb)
