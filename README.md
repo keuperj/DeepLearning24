@@ -127,5 +127,5 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS24
 * [Tensors and Operators](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/basics.ipynb)
 * [Custom Layers](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/custom_layers.ipynb)
 * [Custom Training](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/custom_training_walkthrough.ipynb)
-* [Use Case 1: CIFAR10](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb)
-* [Use Case 2: text RNN](https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb)
+### Assignment
+* [CIFAR10](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb)
